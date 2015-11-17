@@ -1,0 +1,18 @@
+{
+  "id": "default",
+  "description": "Default settings",
+  "engineFactory": "com.elteuplat.SVDItemSimilarityEngine",
+  "datasource": {
+    "params" : {
+      "appName": "elteuplat"
+    }
+  },
+  "algorithms": [
+    {
+      "name": "algo",
+      "params": {
+        "dimensions": 1000
+      }
+    }
+  ]
+}

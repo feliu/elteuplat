@@ -1,0 +1,390 @@
+2015-11-06 12:44:57,663 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-06 12:44:57,709 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | aAE7PfreoLNnsamLowkA1ZUNK8JtjmJ0SB2pXqdsBih6GBJbkJIDEz9LINX3ZmcU | (all)
+2015-11-06 12:44:57,710 INFO  io.prediction.tools.console.App$ [main] - Finished listing 1 app(s).
+2015-11-06 12:49:03,539 WARN  io.prediction.tools.console.Template$ [main] - template.json does not exist. Template metadata will not be available. (This is safe to ignore if you are not working on a template.)
+2015-11-06 12:49:03,545 INFO  io.prediction.tools.console.Console$ [main] - Using command '/Users/eduardfeliubaena/PredictionIO/sbt/sbt' at the current working directory to build.
+2015-11-06 12:49:03,545 INFO  io.prediction.tools.console.Console$ [main] - If the path above is incorrect, this process will fail.
+2015-11-06 12:49:03,546 INFO  io.prediction.tools.console.Console$ [main] - Uber JAR disabled, but current working directory does not look like an engine project directory. Please delete lib/pio-assembly-0.9.5.jar manually.
+2015-11-06 12:49:03,546 INFO  io.prediction.tools.console.Console$ [main] - Going to run: /Users/eduardfeliubaena/PredictionIO/sbt/sbt  package assemblyPackageDependency
+2015-11-06 12:49:06,421 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mNot a valid command: assemblyPackageDependency[0m
+2015-11-06 12:49:06,422 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mNot a valid project ID: assemblyPackageDependency[0m
+2015-11-06 12:49:06,422 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mExpected ':' (if selecting a configuration)[0m
+2015-11-06 12:49:06,422 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mNot a valid key: assemblyPackageDependency (similar: sbtDependency)[0m
+2015-11-06 12:49:06,422 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0massemblyPackageDependency[0m
+2015-11-06 12:49:06,422 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0m                         ^[0m
+2015-11-06 12:49:06,456 ERROR io.prediction.tools.console.Console$ [main] - Return code of previous step is 1. Aborting.
+2015-11-07 18:09:34,485 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-07 18:09:34,546 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | aAE7PfreoLNnsamLowkA1ZUNK8JtjmJ0SB2pXqdsBih6GBJbkJIDEz9LINX3ZmcU | (all)
+2015-11-07 18:09:34,550 INFO  io.prediction.tools.console.App$ [main] -                prova |    2 | JbEIvYyDgs9MO0fObFA6mrr77kEYOStYR0ma61GtTCpcee3iCGysiCbcyrl0JO3n | (all)
+2015-11-07 18:09:34,551 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
+2015-11-07 18:44:33,365 INFO  io.prediction.tools.console.Console$ [main] - Using existing engine manifest JSON at /Users/eduardfeliubaena/Documents/elteuplat/data/manifest.json
+2015-11-07 18:44:33,368 WARN  io.prediction.tools.console.Template$ [main] - template.json does not exist. Template metadata will not be available. (This is safe to ignore if you are not working on a template.)
+2015-11-07 18:44:33,372 INFO  io.prediction.tools.console.Console$ [main] - Using command '/Users/eduardfeliubaena/PredictionIO/sbt/sbt' at the current working directory to build.
+2015-11-07 18:44:33,372 INFO  io.prediction.tools.console.Console$ [main] - If the path above is incorrect, this process will fail.
+2015-11-07 18:44:33,373 INFO  io.prediction.tools.console.Console$ [main] - Uber JAR disabled, but current working directory does not look like an engine project directory. Please delete lib/pio-assembly-0.9.5.jar manually.
+2015-11-07 18:44:33,373 INFO  io.prediction.tools.console.Console$ [main] - Going to run: /Users/eduardfeliubaena/PredictionIO/sbt/sbt  package assemblyPackageDependency
+2015-11-07 18:44:35,982 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mNot a valid command: assemblyPackageDependency[0m
+2015-11-07 18:44:35,983 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mNot a valid project ID: assemblyPackageDependency[0m
+2015-11-07 18:44:35,983 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mExpected ':' (if selecting a configuration)[0m
+2015-11-07 18:44:35,983 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0mNot a valid key: assemblyPackageDependency (similar: sbtDependency)[0m
+2015-11-07 18:44:35,983 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0massemblyPackageDependency[0m
+2015-11-07 18:44:35,983 ERROR io.prediction.tools.console.Console$ [Thread-2] - [0m[[31merror[0m] [0m                         ^[0m
+2015-11-07 18:44:36,019 ERROR io.prediction.tools.console.Console$ [main] - Return code of previous step is 1. Aborting.
+2015-11-07 18:46:08,138 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-07 18:46:08,170 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | aAE7PfreoLNnsamLowkA1ZUNK8JtjmJ0SB2pXqdsBih6GBJbkJIDEz9LINX3ZmcU | (all)
+2015-11-07 18:46:08,182 INFO  io.prediction.tools.console.App$ [main] -                prova |    2 | JbEIvYyDgs9MO0fObFA6mrr77kEYOStYR0ma61GtTCpcee3iCGysiCbcyrl0JO3n | (all)
+2015-11-07 18:46:08,182 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
+2015-11-07 18:46:30,047 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-07 18:46:30,048 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-07 18:46:30,049 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-07 18:46:30,049 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-07 18:46:38,735 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-07 18:46:39,956 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-07 18:46:40,081 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-07 18:46:40,332 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-07 18:46:40,434 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-07 18:47:19,988 INFO  io.prediction.tools.console.Console$ [main] - Using existing engine manifest JSON at /Users/eduardfeliubaena/Documents/elteuplat/data/manifest.json
+2015-11-07 18:47:19,990 WARN  io.prediction.tools.console.Template$ [main] - template.json does not exist. Template metadata will not be available. (This is safe to ignore if you are not working on a template.)
+2015-11-07 18:47:20,865 ERROR io.prediction.tools.console.Console$ [main] - Engine JXTSRUffYvuYHuvK1xMEmYC3Wc3LXGit 101af1f8f96c53f53a03462b6345d62723005e04 cannot be found in the system.
+2015-11-07 18:47:20,866 ERROR io.prediction.tools.console.Console$ [main] - Possible reasons:
+2015-11-07 18:47:20,866 ERROR io.prediction.tools.console.Console$ [main] - - the engine is not yet built by the 'build' command;
+2015-11-07 18:47:20,866 ERROR io.prediction.tools.console.Console$ [main] - - the meta data store is offline.
+2015-11-07 19:00:06,975 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-07 19:00:06,977 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-07 19:00:06,977 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-07 19:00:06,977 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-07 19:00:10,874 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-07 19:00:12,043 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-07 19:00:12,171 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-07 19:00:12,429 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-07 19:00:12,533 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-09 11:34:14,420 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-09 11:34:14,421 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-09 11:34:14,421 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-09 11:34:14,422 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-09 11:34:19,114 ERROR org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper [main] - ZooKeeper exists failed after 1 attempts
+2015-11-09 11:34:19,114 ERROR org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher [main] - hconnection-0x6d5037a9, quorum=localhost:2181, baseZNode=/hbase Received unexpected KeeperException, re-throwing exception
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase/hbaseid
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1045)
+	at org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper.exists(RecoverableZooKeeper.java:199)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.checkExists(ZKUtil.java:479)
+	at org.apache.hadoop.hbase.zookeeper.ZKClusterId.readClusterIdZNode(ZKClusterId.java:65)
+	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getClusterId(ZooKeeperRegistry.java:83)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.retrieveClusterId(HConnectionManager.java:852)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.<init>(HConnectionManager.java:657)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:409)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:388)
+	at org.apache.hadoop.hbase.client.HConnectionManager.getConnection(HConnectionManager.java:269)
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2338)
+	at io.prediction.data.storage.hbase.StorageClient.<init>(StorageClient.scala:50)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at io.prediction.data.storage.Storage$.getClient(Storage.scala:217)
+	at io.prediction.data.storage.Storage$.io$prediction$data$storage$Storage$$updateS2CM(Storage.scala:248)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at io.prediction.data.storage.Storage$.sourcesToClientMeta(Storage.scala:209)
+	at io.prediction.data.storage.Storage$.getDataObject(Storage.scala:278)
+	at io.prediction.data.storage.Storage$.getDataObjectFromRepo(Storage.scala:263)
+	at io.prediction.data.storage.Storage$.getLEvents(Storage.scala:385)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:287)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:256)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.App$.dataDeleteOne(App.scala:256)
+	at io.prediction.tools.console.App$.dataDelete(App.scala:249)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:738)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:684)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.Console$.main(Console.scala:684)
+	at io.prediction.tools.console.Console.main(Console.scala)
+2015-11-09 11:34:19,116 WARN  org.apache.hadoop.hbase.client.ZooKeeperRegistry [main] - Can't retrieve clusterId from Zookeeper
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase/hbaseid
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1045)
+	at org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper.exists(RecoverableZooKeeper.java:199)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.checkExists(ZKUtil.java:479)
+	at org.apache.hadoop.hbase.zookeeper.ZKClusterId.readClusterIdZNode(ZKClusterId.java:65)
+	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getClusterId(ZooKeeperRegistry.java:83)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.retrieveClusterId(HConnectionManager.java:852)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.<init>(HConnectionManager.java:657)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:409)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:388)
+	at org.apache.hadoop.hbase.client.HConnectionManager.getConnection(HConnectionManager.java:269)
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2338)
+	at io.prediction.data.storage.hbase.StorageClient.<init>(StorageClient.scala:50)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at io.prediction.data.storage.Storage$.getClient(Storage.scala:217)
+	at io.prediction.data.storage.Storage$.io$prediction$data$storage$Storage$$updateS2CM(Storage.scala:248)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at io.prediction.data.storage.Storage$.sourcesToClientMeta(Storage.scala:209)
+	at io.prediction.data.storage.Storage$.getDataObject(Storage.scala:278)
+	at io.prediction.data.storage.Storage$.getDataObjectFromRepo(Storage.scala:263)
+	at io.prediction.data.storage.Storage$.getLEvents(Storage.scala:385)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:287)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:256)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.App$.dataDeleteOne(App.scala:256)
+	at io.prediction.tools.console.App$.dataDelete(App.scala:249)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:738)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:684)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.Console$.main(Console.scala:684)
+	at io.prediction.tools.console.Console.main(Console.scala)
+2015-11-09 11:34:20,325 ERROR io.prediction.data.storage.hbase.StorageClient [main] - Cannot connect to ZooKeeper (ZooKeeper ensemble: localhost). Please make sure that the configuration is pointing at the correct ZooKeeper ensemble. By default, HBase manages its own ZooKeeper, so if you have not configured HBase to use an external ZooKeeper, that means your HBase is not started or configured properly.
+2015-11-09 11:34:20,325 ERROR io.prediction.data.storage.Storage$ [main] - Error initializing storage client for source HBASE
+org.apache.hadoop.hbase.ZooKeeperConnectionException: Can't connect to ZooKeeper
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2358)
+	at io.prediction.data.storage.hbase.StorageClient.<init>(StorageClient.scala:50)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at io.prediction.data.storage.Storage$.getClient(Storage.scala:217)
+	at io.prediction.data.storage.Storage$.io$prediction$data$storage$Storage$$updateS2CM(Storage.scala:248)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at io.prediction.data.storage.Storage$.sourcesToClientMeta(Storage.scala:209)
+	at io.prediction.data.storage.Storage$.getDataObject(Storage.scala:278)
+	at io.prediction.data.storage.Storage$.getDataObjectFromRepo(Storage.scala:263)
+	at io.prediction.data.storage.Storage$.getLEvents(Storage.scala:385)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:287)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:256)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.App$.dataDeleteOne(App.scala:256)
+	at io.prediction.tools.console.App$.dataDelete(App.scala:249)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:738)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:684)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.Console$.main(Console.scala:684)
+	at io.prediction.tools.console.Console.main(Console.scala)
+Caused by: org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1045)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1073)
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2349)
+	... 25 more
+2015-11-09 11:34:32,256 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-09 11:34:32,257 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-09 11:34:32,257 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-09 11:34:32,257 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-09 11:34:37,770 ERROR org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper [main] - ZooKeeper exists failed after 1 attempts
+2015-11-09 11:34:37,771 ERROR org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher [main] - hconnection-0x6d5037a9, quorum=localhost:2181, baseZNode=/hbase Received unexpected KeeperException, re-throwing exception
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase/hbaseid
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1045)
+	at org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper.exists(RecoverableZooKeeper.java:199)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.checkExists(ZKUtil.java:479)
+	at org.apache.hadoop.hbase.zookeeper.ZKClusterId.readClusterIdZNode(ZKClusterId.java:65)
+	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getClusterId(ZooKeeperRegistry.java:83)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.retrieveClusterId(HConnectionManager.java:852)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.<init>(HConnectionManager.java:657)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:409)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:388)
+	at org.apache.hadoop.hbase.client.HConnectionManager.getConnection(HConnectionManager.java:269)
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2338)
+	at io.prediction.data.storage.hbase.StorageClient.<init>(StorageClient.scala:50)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at io.prediction.data.storage.Storage$.getClient(Storage.scala:217)
+	at io.prediction.data.storage.Storage$.io$prediction$data$storage$Storage$$updateS2CM(Storage.scala:248)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at io.prediction.data.storage.Storage$.sourcesToClientMeta(Storage.scala:209)
+	at io.prediction.data.storage.Storage$.getDataObject(Storage.scala:278)
+	at io.prediction.data.storage.Storage$.getDataObjectFromRepo(Storage.scala:263)
+	at io.prediction.data.storage.Storage$.getLEvents(Storage.scala:385)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:287)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:256)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.App$.dataDeleteOne(App.scala:256)
+	at io.prediction.tools.console.App$.dataDelete(App.scala:249)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:738)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:684)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.Console$.main(Console.scala:684)
+	at io.prediction.tools.console.Console.main(Console.scala)
+2015-11-09 11:34:37,773 WARN  org.apache.hadoop.hbase.client.ZooKeeperRegistry [main] - Can't retrieve clusterId from Zookeeper
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase/hbaseid
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1045)
+	at org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper.exists(RecoverableZooKeeper.java:199)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.checkExists(ZKUtil.java:479)
+	at org.apache.hadoop.hbase.zookeeper.ZKClusterId.readClusterIdZNode(ZKClusterId.java:65)
+	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getClusterId(ZooKeeperRegistry.java:83)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.retrieveClusterId(HConnectionManager.java:852)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.<init>(HConnectionManager.java:657)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:409)
+	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:388)
+	at org.apache.hadoop.hbase.client.HConnectionManager.getConnection(HConnectionManager.java:269)
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2338)
+	at io.prediction.data.storage.hbase.StorageClient.<init>(StorageClient.scala:50)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at io.prediction.data.storage.Storage$.getClient(Storage.scala:217)
+	at io.prediction.data.storage.Storage$.io$prediction$data$storage$Storage$$updateS2CM(Storage.scala:248)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at io.prediction.data.storage.Storage$.sourcesToClientMeta(Storage.scala:209)
+	at io.prediction.data.storage.Storage$.getDataObject(Storage.scala:278)
+	at io.prediction.data.storage.Storage$.getDataObjectFromRepo(Storage.scala:263)
+	at io.prediction.data.storage.Storage$.getLEvents(Storage.scala:385)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:287)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:256)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.App$.dataDeleteOne(App.scala:256)
+	at io.prediction.tools.console.App$.dataDelete(App.scala:249)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:738)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:684)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.Console$.main(Console.scala:684)
+	at io.prediction.tools.console.Console.main(Console.scala)
+2015-11-09 11:34:38,975 ERROR io.prediction.data.storage.hbase.StorageClient [main] - Cannot connect to ZooKeeper (ZooKeeper ensemble: localhost). Please make sure that the configuration is pointing at the correct ZooKeeper ensemble. By default, HBase manages its own ZooKeeper, so if you have not configured HBase to use an external ZooKeeper, that means your HBase is not started or configured properly.
+2015-11-09 11:34:38,976 ERROR io.prediction.data.storage.Storage$ [main] - Error initializing storage client for source HBASE
+org.apache.hadoop.hbase.ZooKeeperConnectionException: Can't connect to ZooKeeper
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2358)
+	at io.prediction.data.storage.hbase.StorageClient.<init>(StorageClient.scala:50)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at io.prediction.data.storage.Storage$.getClient(Storage.scala:217)
+	at io.prediction.data.storage.Storage$.io$prediction$data$storage$Storage$$updateS2CM(Storage.scala:248)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at io.prediction.data.storage.Storage$$anonfun$sourcesToClientMeta$1.apply(Storage.scala:209)
+	at scala.collection.mutable.MapLike$class.getOrElseUpdate(MapLike.scala:189)
+	at scala.collection.mutable.AbstractMap.getOrElseUpdate(Map.scala:91)
+	at io.prediction.data.storage.Storage$.sourcesToClientMeta(Storage.scala:209)
+	at io.prediction.data.storage.Storage$.getDataObject(Storage.scala:278)
+	at io.prediction.data.storage.Storage$.getDataObjectFromRepo(Storage.scala:263)
+	at io.prediction.data.storage.Storage$.getLEvents(Storage.scala:385)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:287)
+	at io.prediction.tools.console.App$$anonfun$dataDeleteOne$2.apply(App.scala:256)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.App$.dataDeleteOne(App.scala:256)
+	at io.prediction.tools.console.App$.dataDelete(App.scala:249)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:738)
+	at io.prediction.tools.console.Console$$anonfun$main$1.apply(Console.scala:684)
+	at scala.Option.map(Option.scala:145)
+	at io.prediction.tools.console.Console$.main(Console.scala:684)
+	at io.prediction.tools.console.Console.main(Console.scala)
+Caused by: org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1045)
+	at org.apache.zookeeper.ZooKeeper.exists(ZooKeeper.java:1073)
+	at org.apache.hadoop.hbase.client.HBaseAdmin.checkHBaseAvailable(HBaseAdmin.java:2349)
+	... 25 more
+2015-11-09 19:00:43,118 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-09 19:00:43,179 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | 35IUlS4nTY8ehC9NGXL87yDTAzDv9pqn2qY2b8UyScWlbxJHD0jhyvvKWP8D88as | (all)
+2015-11-09 19:00:43,179 INFO  io.prediction.tools.console.App$ [main] - Finished listing 1 app(s).
+2015-11-09 19:24:37,074 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-09 19:24:37,075 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-09 19:24:37,076 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-09 19:24:37,076 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-09 19:24:40,448 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-09 19:24:41,666 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-09 19:24:41,793 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-09 19:24:42,039 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-09 19:24:42,146 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-09 20:21:49,726 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-09 20:21:49,756 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | 35IUlS4nTY8ehC9NGXL87yDTAzDv9pqn2qY2b8UyScWlbxJHD0jhyvvKWP8D88as | (all)
+2015-11-09 20:21:49,757 INFO  io.prediction.tools.console.App$ [main] - Finished listing 1 app(s).
+2015-11-09 20:25:42,038 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-09 20:25:42,040 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-09 20:25:42,040 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-09 20:25:42,040 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-09 20:25:45,458 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-09 20:25:46,688 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-09 20:25:46,812 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-09 20:25:47,060 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-09 20:25:47,163 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-14 11:21:52,274 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-14 11:21:52,323 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | 35IUlS4nTY8ehC9NGXL87yDTAzDv9pqn2qY2b8UyScWlbxJHD0jhyvvKWP8D88as | (all)
+2015-11-14 11:21:52,330 INFO  io.prediction.tools.console.App$ [main] -                prova |    2 | 3NpKHHmbPe3lBNOPdOyffaWArvjXyBdJ0fX8dbihp8dY524TeAzN5okvIKIv9IPA | (all)
+2015-11-14 11:21:52,330 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
+2015-11-14 11:37:58,053 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-14 11:37:58,056 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-14 11:37:58,056 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-14 11:37:58,056 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-14 11:37:59,711 INFO  io.prediction.tools.console.App$ [main] - Aborted.
+2015-11-14 11:38:04,949 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-14 11:38:04,951 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-14 11:38:04,951 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-14 11:38:04,951 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-14 11:38:07,389 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-14 11:38:08,640 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-14 11:38:08,770 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-14 11:38:09,025 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-14 11:38:09,132 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-14 16:08:43,832 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-14 16:08:43,876 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | 35IUlS4nTY8ehC9NGXL87yDTAzDv9pqn2qY2b8UyScWlbxJHD0jhyvvKWP8D88as | (all)
+2015-11-14 16:08:43,881 INFO  io.prediction.tools.console.App$ [main] -                prova |    2 | 3NpKHHmbPe3lBNOPdOyffaWArvjXyBdJ0fX8dbihp8dY524TeAzN5okvIKIv9IPA | (all)
+2015-11-14 16:08:43,882 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
+2015-11-14 16:11:03,388 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-14 16:11:03,389 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-14 16:11:03,389 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-14 16:11:03,390 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-14 16:11:05,536 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-14 16:11:06,784 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-14 16:11:06,909 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-14 16:11:07,169 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-14 16:11:07,275 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-14 16:14:10,549 INFO  io.prediction.tools.console.App$ [main] - Data of the following app (default channel only) will be deleted. Are you sure?
+2015-11-14 16:14:10,551 INFO  io.prediction.tools.console.App$ [main] -     App Name: elteuplat
+2015-11-14 16:14:10,551 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-11-14 16:14:10,551 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-11-14 16:14:14,198 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table pio_event:events_1...
+2015-11-14 16:14:15,426 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-11-14 16:14:15,554 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table pio_event:events_1 doesn't exist yet. Creating now...
+2015-11-14 16:14:15,802 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-11-14 16:14:15,909 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-11-15 09:02:26,024 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-15 09:02:26,140 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | 35IUlS4nTY8ehC9NGXL87yDTAzDv9pqn2qY2b8UyScWlbxJHD0jhyvvKWP8D88as | (all)
+2015-11-15 09:02:26,144 INFO  io.prediction.tools.console.App$ [main] -                prova |    2 | 3NpKHHmbPe3lBNOPdOyffaWArvjXyBdJ0fX8dbihp8dY524TeAzN5okvIKIv9IPA | (all)
+2015-11-15 09:02:26,145 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
+2015-11-15 12:02:04,569 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-11-15 12:02:04,609 INFO  io.prediction.tools.console.App$ [main] -            elteuplat |    1 | 35IUlS4nTY8ehC9NGXL87yDTAzDv9pqn2qY2b8UyScWlbxJHD0jhyvvKWP8D88as | (all)
+2015-11-15 12:02:04,614 INFO  io.prediction.tools.console.App$ [main] -                prova |    2 | 3NpKHHmbPe3lBNOPdOyffaWArvjXyBdJ0fX8dbihp8dY524TeAzN5okvIKIv9IPA | (all)
+2015-11-15 12:02:04,615 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
